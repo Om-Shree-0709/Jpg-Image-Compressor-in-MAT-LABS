@@ -1,5 +1,3 @@
-
-
 function compress_jpg_image(filepath)
     % Check if the file exists
     if ~isfile(filepath)
